@@ -1,4 +1,4 @@
-#Natrify Website
+#-Natrify Website
 
 Welcome to the Natrify website project on GitHub. This repository contains the source code for a one-page website designed for the company Natrify. This website is meant to showcase all the products and services offered by Natrify. It was built using HTML, CSS, and JavaScript.
 
