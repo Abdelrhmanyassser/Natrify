@@ -8,9 +8,9 @@ Natrify is a company that offers a range of products and services, and this webs
 
 ## Tools Used
 
-- HTML: Used for structuring the content of the website.
-- CSS: Used for styling the website and making it visually appealing.
-- JavaScript: Used for adding interactivity and functionality to the website.
+- HTML: Used for structuring the content of the website
+- CSS: Used for styling the website and making it visually appealing
+- JavaScript: Used for adding interactivity and functionality to the website
 
 ## Getting Started
 
